@@ -1,4 +1,4 @@
-# Skripts for spot quantification data processing
+# Scripts for spot quantification data processing
 
 ## aims
 - reading of EVAnalyzer results files (.csv) into R
