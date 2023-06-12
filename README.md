@@ -5,4 +5,4 @@
 - establishment of useful functions for plotting of EVAnalyzer results
 - and statistics
 
-[EVAnalyzer] (https://github.com/joda01/evanalyzer)
+[EVAnalyzer](https://github.com/joda01/evanalyzer)
