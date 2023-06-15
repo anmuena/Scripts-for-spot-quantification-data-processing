@@ -1,7 +1,7 @@
 # Scripts for spot quantification data processing
 
 ## aims
-- reading of EVAnalyzer results files (.csv) into R
+- reading of EVAnalyzer results files (.csv) using python
 - establishment of useful functions for plotting of EVAnalyzer results
 - and statistics
 
